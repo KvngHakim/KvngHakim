@@ -1,1 +1,1 @@
-import { View } from 'react-native';
+const myName = 'Arinze';
